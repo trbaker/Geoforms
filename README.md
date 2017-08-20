@@ -1,4 +1,4 @@
-# Geoforms
+# Geoforms for use with Google Drive (2012-2015)
 The ColdFusion code for the EdGIS GeoForms Tool for use with Google Drive.  This was created ~2012. The code has had username, passwords, and servers removed but otherwise intact. 
 
 Script written under ColdFuison 7 but should work under current versions. See www.adobel.com/coldfusion
